@@ -1,1 +1,1 @@
-# -AtliQ-Business-Insights-360
+# AtliQ-Business-Insights-360
