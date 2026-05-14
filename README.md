@@ -5,7 +5,7 @@ Project Overview
 ## 🔗 Project Links
 
 - **Live Dashboard:**  
-  [View Dashboard][(https://app.powerbi.com/view?r=eyJrIjoiNWI1OWY4YWUtNGY2ZS00ZWQxLWJkMDQtYjgzNTBmMGZjNDFjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9](https://app.powerbi.com/view?r=eyJrIjoiMzMwYWY0ZmEtOWI4MS00MzI1LTg0ZjgtZDg2OWU2ZGVjZTRkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
+  [View Dashboard][(https://app.powerbi.com/view?r=eyJrIjoiMzMwYWY0ZmEtOWI4MS00MzI1LTg0ZjgtZDg2OWU2ZGVjZTRkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)]
 
 - **Project Video:**  
   [Watch Video](https://youtu.be/U5bl7FUnbk0?si=qVLBy7Jx_2BX3jCR)
